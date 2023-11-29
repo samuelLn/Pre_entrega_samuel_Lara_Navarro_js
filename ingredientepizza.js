@@ -138,10 +138,9 @@ if (formatoPizza === "Pizza individual") {
     console.log("Formato de pizza no válido.");
 }
 
-// Si 'formatoPizza' no es válido, 'totalValorPizza' no se calculará correctamente
+
 const totalValorPizzaFormato = valorFormato;
 
-// Imprimir el resultado solo si 'formatoPizza' es válido
 //if (valorFormato !== undefined) {
     //console.log("El total del valor de la pizza es: " + totalValorPizza);
 //}
